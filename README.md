@@ -20,7 +20,11 @@ This is where I am learning that the following:
 		git add -u  for all modified and deleted files
 		git add <file>  for a specific file
 
-#Save here then stage it 
+3) git commit -m "<enter a message here>"
 
 Now push changes to the the remote repo
+
+Use git push origin main to upload to the remote repo
+
+Very good you did it!!
 		
